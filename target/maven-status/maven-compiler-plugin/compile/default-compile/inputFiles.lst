@@ -1,1 +1,4 @@
-C:\Users\andre\eclipse-workspace\projeto\cinema\src\main\java\br\cinema\App.java
+C:\Users\andre\eclipse-workspace\projeto\cinema\src\main\java\br\cinema\model\Filme.java
+C:\Users\andre\eclipse-workspace\projeto\cinema\src\main\java\br\cinema\dao\FilmeDao.java
+C:\Users\andre\eclipse-workspace\projeto\cinema\src\main\java\br\cinema\controller\FilmeController.java
+C:\Users\andre\eclipse-workspace\projeto\cinema\src\main\java\br\cinema\controller\HomeController.java
